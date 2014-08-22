@@ -1,2 +1,2 @@
-Branch testing readme file created to denote the second creation of branch testing.
-Hope it works again!
+This is the README.md file after the merge of branch master and branch testing.
+Awesome!
